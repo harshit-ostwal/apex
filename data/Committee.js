@@ -1,10 +1,10 @@
-import c1 from "@/public/1.png";
-import c2 from "@/public/2.png";
-import c3 from "@/public/3.png";
-import c4 from "@/public/4.png";
-import c5 from "@/public/5.png";
-import c6 from "@/public/6.png";
-import c7 from "@/public/7.png";
+import c1 from "@/public/1.jpeg";
+import c2 from "@/public/2.jpeg";
+import c3 from "@/public/3.jpeg";
+import c4 from "@/public/4.jpeg";
+import c5 from "@/public/5.jpeg";
+import c6 from "@/public/6.jpeg";
+import c7 from "@/public/7.jpeg";
 
 export const Committees = [
     {
