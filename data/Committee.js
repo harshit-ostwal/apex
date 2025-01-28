@@ -4,52 +4,55 @@ import c3 from "@/public/3.jpeg";
 import c4 from "@/public/4.jpeg";
 import c5 from "@/public/5.jpeg";
 import c6 from "@/public/6.jpeg";
-import c7 from "@/public/7.jpeg";
 
 export const Committees = [
     {
-        image: c1,
+        image: c6,
         title: "UNGA",
         desc: "Assessing Military, Diplomatic, and Strategic Responses to secure peace amidst the Kashmir Crisis",
     },
     {
-        image: c2,
+        image: c4,
         title: "UNHRC",
         desc: "Addressing Human Rights violations in the Israel-Palestine Conflict",
     },
     {
-        image: c3,
+        image: c2,
         title: "UNCSW",
         desc: "Deliberation On Existing Social Protection Systems, With Emphasis On Curbing The Exploitation Of Women In The Economic Sphere",
     },
     {
-        image: c4,
+        image: c1,
         title: "AIPPM",
         desc: "Deliberation On Anti Terror Laws in India with Special Emphasis on free speech",
     },
- 
     {
-        image: c6,
+        image: c5,
         title: "IP",
         desc: "Journalism, Caricature And Photography",
     },
- 
+    {
+        image: c3,
+        title: "WHO",
+        desc: "Deliberation On Anti Terror Laws in India with Special Emphasis on free speech",
+    },
+
 ];
 
 export const HomeCommittee = [
     {
-        image: c1,
+        image: c6,
         title: "UNGA",
-        desc: "Mitigating The Emerging Threats Of Cyber Warfare With Emphasis On The Weaponization Of Artificial Intelligence And Its Implications",
+        desc: "Assessing Military, Diplomatic, and Strategic Responses to secure peace amidst the Kashmir Crisis",
+    },
+    {
+        image: c4,
+        title: "UNHRC",
+        desc: "Addressing Human Rights violations in the Israel-Palestine Conflict",
     },
     {
         image: c2,
-        title: "UNHRC",
-        desc: "Discussion On The Effective Implementation Of The Right To Privacy With Emphasis On The Human Rights Challenges In The Modern Digital Age",
-    },
-    {
-        image: c3,
         title: "UNCSW",
         desc: "Deliberation On Existing Social Protection Systems, With Emphasis On Curbing The Exploitation Of Women In The Economic Sphere",
-    }
+    },
 ]
