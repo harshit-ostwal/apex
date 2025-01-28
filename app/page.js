@@ -2,7 +2,6 @@ import About from '@/components/About'
 import Coming from '@/components/Coming'
 import Committee from '@/components/Committee'
 import Main from '@/components/Main'
-import Review from '@/components/Review'
 import Team from '@/components/Team'
 import React from 'react'
 
@@ -14,7 +13,6 @@ function page() {
       <Committee />
       <Coming />
       <Team />
-      {/* <Review /> */}
     </div>
   )
 }
